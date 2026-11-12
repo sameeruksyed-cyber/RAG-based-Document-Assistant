@@ -1,12 +1,12 @@
 # Local secrets
-.env/
+.env
 
 # Python virtual environment
-.project/
+.project
 
 #Private documents
-.docs/
+.docs
 
-__pycache__/
+__pycache__
 
-.vscode/
+.vscode
